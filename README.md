@@ -17,18 +17,9 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm reza" title="👋 Hi there! I'm reza"/>
 
 <div align="justify">
-
-[![Instagram](https://img.shields.io/badge/rzashakeri-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/rzashakeri/)&nbsp;&nbsp;
-[![YouTube](https://img.shields.io/badge/rzashakeri-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@rzashakeri)&nbsp;&nbsp;&nbsp;
-[![Twitter](https://img.shields.io/badge/rzashakeri-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/rzashakeri/)&nbsp;&nbsp;&nbsp;
-[![Linkedin](https://img.shields.io/badge/rzashakeri-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rzashakeri//)&nbsp;&nbsp;
-[![telegram](https://img.shields.io/badge/rzashakeri-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rzashakeri/)&nbsp;&nbsp;&nbsp;
-[![gitlab](https://img.shields.io/badge/rzashakeri-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/rzashakeri)
-
- 
 </div>  
 <p align="justify"> 
-welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering student, I learn new things about programming and teach these things to others, I have been programming for almost more than 10 years and worked with many languages and technologies. Also, inside Instagram, I have a media called <a href="https://www.instagram.com/barnamenevisiinsta">Barnamenevisinsta</a> that shares everything I learn about programming.
+welcome to my GitHub Page. I am Polatov Sanjar and now Computer engineering student, I learn new things about programming and teach these things to others. 
  
 
 </p>
