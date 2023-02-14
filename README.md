@@ -21,12 +21,3 @@
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=24555f&style=plastic&logo=react&logo-color=white"/>
   </a>
 </p>
-
-# Hello Folks! <img src="https://github.com/rahulkarda/rahulkarda/blob/main/wave.gif?raw=true" width="30">
- <!-- Profile views -->
- <img src="https://gpvc.arturio.dev/rahulkarda" align="center">
- <img src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif" align="right" height="300">
- 
- <p align="left">My name is Rahul Karda and I'm a Fullstack Developer.
-  
-  I'm from India, living in Bhopal and currently studying Computer Science.
